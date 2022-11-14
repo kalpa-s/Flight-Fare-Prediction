@@ -5,8 +5,7 @@ Access the Web App here: [https://test3-lr78.onrender.com](https://test3-lr78.on
 
 Here is a screenshot of the page:
 
-![render1](https://user-images.githubusercontent.com/116943735/201607034-f9aaceb1-4a7d-44f1-a233-0299737092a6.PNG)
-
+![render_1](https://user-images.githubusercontent.com/116943735/201607662-5e690b09-149b-45a3-88e1-46d3b0369207.png)
 
 After filling out the input and clicking on submit button, it displays the predicted output as follows:
 
