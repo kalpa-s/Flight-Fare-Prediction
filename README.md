@@ -4,7 +4,7 @@ This is a Flask web app, deployed on Render, which predicts Flight ticket fares.
 
 ## Introduction
 Flight ticket prices increase or decrease every now and then depending on various factors like timing of the flights, destination, duration of flights, various occasions such as vacations or festive season. Therefore, having some basic idea of the flight fares before planning the trip will surely help people save money and time. 
-I have proposed a predictive model that uses regression based Machine Learning algorithms on the collected historical data of flights. This system will give an idea about the price trends and also provide a predicted price value which travelers can refer to before booking their flight tickets to save money.
+I have proposed a predictive model that uses Machine Learning algorithms on the collected historical data of flights. This system will give an idea about the price trends and also provide a predicted price value which travelers can refer to before booking their flight tickets to save money.
 
 ## Links
 Access the Web App here: [https://test3-lr78.onrender.com](https://test3-lr78.onrender.com)
